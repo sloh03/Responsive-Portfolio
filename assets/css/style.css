@@ -439,6 +439,17 @@ nav a.selected {
 
 
 
+
+
+/* When using % for width of images, I could not get them to float right to keep 
+the look of the gallery, so I ended up using multiple break points to try to make
+the gallery responsive */
+
+
+
+
+
+
 /*******************************
 768px and smaller until next size
 ********************************/
